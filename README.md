@@ -16,7 +16,7 @@ For Database: SQL
 
 2- Open SQL Server Management Studio and in the "Connect to Database Engine" window type the following:
 ```
-Servername: .\SQLEXRPESS
+Servername: (DESKTOP-NAME)\SQLEXRPESS
 Authentication: Windows Authentication 
 ```
 
